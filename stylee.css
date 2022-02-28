@@ -74,5 +74,32 @@ body{
 	width:300px;
 	position:absolute;
 	top:150px;
-	width:500px;
+	width:550px;
 	right:1px}
+
+
+.second{width:300px;
+	position:absolute;
+	top:550px;
+	width:550px;
+	right:1px}
+
+
+.third{width:300px;
+	position:absolute;
+	top:925px;
+	width:550px;
+	right:1px}
+
+.four{width:300px;
+	position:absolute;
+	top:1250px;
+	width:550px;
+	right:1px}
+
+.five{width:300px;
+	position:absolute;
+	top:1675px;
+	width:550px;
+	right:1px}
+
