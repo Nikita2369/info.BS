@@ -70,5 +70,9 @@ body{
 }
 
 
-.first{float: right;
-	width:300px;}
+.first{
+	width:300px;
+	position:absolute;
+	top:150px;
+	width:500px;
+	right:1px}
