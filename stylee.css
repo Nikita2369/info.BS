@@ -14,7 +14,7 @@ body{
 }
 
 .menu{
-	display: -webkit-inline-box;
+	display: none;
 	background-color: silver;
 	position: absolute;
 	min-width: 160px;
@@ -50,7 +50,7 @@ body{
 	border: 2px solid silver;
 	width:300px;
 	 
-	float: left;
+	float: initial;
 }
 
 .gallery:hover{
