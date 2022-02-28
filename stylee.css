@@ -14,7 +14,7 @@ body{
 }
 
 .menu{
-	display: none;
+	display: -webkit-inline-box;
 	background-color: silver;
 	position: absolute;
 	min-width: 160px;
